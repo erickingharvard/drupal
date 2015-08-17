@@ -14,7 +14,7 @@
 # permissions and limitations under the License.
 
 # ELB_LIST defines which Elastic Load Balancers this instance should be part of.
-ELB_LIST=""
+ELB_LIST="ekcloudformationstack-bucket-efvxgwp7gn4g"
 
 # Under normal circumstances, you shouldn't need to change anything below this line.
 # -----------------------------------------------------------------------------
