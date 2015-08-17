@@ -221,7 +221,7 @@ $databases = array (
       'username' => 'drupal',
       'password' => 'Bootcamp372948',
       'host' => 'localhost',
-      'port' => '',
+      'port' => 'er1twedwc0tcr4k.cylu0k2udmx0.us-east-1.rds.amazonaws.com',
       'driver' => 'mysql',
       'prefix' => '',
     ),
